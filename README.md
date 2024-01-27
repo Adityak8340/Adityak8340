@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Aditya.
-- 👀 I’m interested in Artificial language specificaly Natural Processing Language
-- 🌱 I’m currently learning at IIIT Lucknow AI & ML from M.Sc
-- 💞️ 
+- 🌱 I’m currently studying at IIIT Lucknow M.Sc AI & ML;
 - 📫 How to reach me mail id - adityak8340@gmail.com
 
 <!---
