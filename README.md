@@ -1,11 +1,13 @@
 ## Hey there, I'm Aditya Kumar Tiwari! 👋
 
-Welcome to my coding corner! 🚀 As a Master's student in Artificial Intelligence & Machine Learning at the Indian Institute of Information Technology, I'm passionate about leveraging technology to solve real-world problems and unravel the mysteries of AI. 🤖
+Welcome to my coding corner! 🚀 As a Master's student in Artificial Intelligence & Machine Learning at the Indian Institute of Information Technology Lucknow, I'm passionate about leveraging technology to solve real-world problems and unravel the mysteries of AI. 🤖
 
 ### 🌱 About Me:
 - 🎓 Master's student in Artificial Intelligence & Machine Learning
 - 🔍 Exploring the fascinating world of Deep Learning
-- 🏸 Badminton enthusiast and a fierce competitor on the court
+- 💻 Passionate about coding; particularly enjoy solving algorithmic challenges on platforms like LeetCode
+- 🏸 When I'm not coding, you can find me on the badminton court, honing my skills and enjoying the game
+
 
 ### 💻 Tech Stack:
 - Languages: C, C++, Python, SQL, HTML
