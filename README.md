@@ -12,7 +12,7 @@ Welcome to my coding corner! 🚀 As a Master's student in Artificial Intelligen
 ### 💻 Tech Stack:
 - Languages: C, C++, Python, SQL, HTML
 - Tools: Streamlit, VS Code, Jupyter, Git, GitHub, MySQL
-- Others: Advanced Excel, Power BI
+- Others: Advanced Excel.
 
 ### 🤝 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/aditya-kumar-tiwari-a787-levi-eren/): Let's network and share our insights!
