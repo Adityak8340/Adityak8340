@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Tiwari</h1>
-<h3 align="center">A passionate full-stack developer from India with a keen interest in Generative AI and CNNS</h3>
+<h3 align="center"> Master's student in AI & ML, passionate about using Deep Learning to solve real-world problems, with a knack for coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumartiwari&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumartiwari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakumartiwari&theme=dracula" alt="adityakumartiwari" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/your_twitter" target="blank"><img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="your_twitter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Adityak22723056" target="blank"><img src="https://img.shields.io/twitter/follow/Adityak22723056?logo=twitter&style=for-the-badge" alt="Adityak22723056" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
