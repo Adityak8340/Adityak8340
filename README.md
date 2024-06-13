@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya!</h1>
-<h3 align="center">Master's student in AI & ML, passionate about using Deep Learning to solve real-world problems, with a knack for coding.</h3>
+<h3 align="center">Master's student in AI & ML, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adityak8340&label=Profile%20views&color=0e75b6&style=flat" alt="Adityak8340" /> </p>
 
