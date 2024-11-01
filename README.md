@@ -12,7 +12,6 @@
 
 <div align="center">
   
-### 🎯 About Me
 *Master's student in AI & ML, turning complex problems into elegant solutions*
 *Passionate about leveraging LLMs for real-world impact*
 
