@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Adityak8340/Adityak8340/blob/main/meow_wave_peak.png" height="32"/>,, I'm Aditya!</h1>
+<h1 align="center">Hi <img src="https://github.com/Adityak8340/Adityak8340/blob/main/meow_wave_peak.png" height="32"/>, I'm Aditya!</h1>
 <h3 align="center">Master's student in AI & ML, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
 
 
