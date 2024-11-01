@@ -1,21 +1,45 @@
-<h1 align="center">Hi <img src="https://github.com/Adityak8340/Adityak8340/blob/main/meow_wave_peak.png" height="32"/>, I'm Aditya!</h1>
-<h3 align="center">Master's student in AI & ML, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
+<div align="center">
+  
+# 🌟 Welcome to Aditya's Digital Space! 🌟
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Master's+Student;LLM+Enthusiast;Problem+Solver;Creative+Coder)](https://git.io/typing-svg)
+
+<img src="https://github.com/Adityak8340/Adityak8340/blob/main/meow_wave_peak.png" height="60"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 About Me
+*Master's student in AI & ML, turning complex problems into elegant solutions*
+*Passionate about leveraging LLMs for real-world impact*
+
+<p align="center">
+  <a href="https://twitter.com/Adityak22723056">
+    <img src="https://img.shields.io/twitter/follow/Adityak22723056?style=for-the-badge&logo=twitter&color=1DA1F2&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/aditya-kumar-tiwari-a14547232">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://kaggle.com/aditya0kumar0tiwari">
+    <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
+  </a>
+  <a href="https://www.leetcode.com/_aadi_anant">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adityak8340&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<p align="left"> <a href="https://twitter.com/Adityak22723056" target="blank"><img src="https://img.shields.io/twitter/follow/Adityak22723056?logo=twitter&style=for-the-badge" alt="Adityak22723056" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/Adityak22723056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/aditya-kumar-tiwari-a14547232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://kaggle.com/aditya0kumar0tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://instagram.com/_aadi_anant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/_aadi_anant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_username" height="30" width="40" /></a>
-</p>
-
+</div>
 
 
 ## Languages and Tools 
@@ -66,15 +90,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  ]
 </div>
-
-
-<h3 align="left">Academic Coursework:</h3>
-<p align="left"> 
-    - Data Structures and Algorithms <br>
-    - Database Management Systems <br>
-    - Deep Learning <br>
-    - Image Vision and Processing
-</p>
 
 
 
