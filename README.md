@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Welcome to Aditya's Digital Space! 🌟
+# 🌟 Hi, It's me, Aditya! 🌟
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Master's+Student;LLM+Enthusiast;Problem+Solver;Creative+Coder)](https://git.io/typing-svg)
 
