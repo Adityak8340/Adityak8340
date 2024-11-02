@@ -122,9 +122,7 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adityak8340&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&margin-w=10&margin-h=15&no-bg=true&column=3" alt="GitHub Trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityak8340&theme=darkhub&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy" alt="Aditya's github trophy">
 </div>
 
   
