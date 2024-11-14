@@ -121,6 +121,17 @@
 
 ---
 
+### 📈 Current LeetCode Streak
+ 
+<!-- Add LeetCode streak badge -->
+<div>
+<p align="center">
+<img src="https://leetcode-stats.vercel.app/api?username=_aadi_anant&theme=dark" alt="LeetCode Streak" />
+</p>
+</div>
+
+---
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adityak8340&theme=darkhub&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy" alt="Aditya's github trophy">
 </div>
