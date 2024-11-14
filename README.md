@@ -121,41 +121,45 @@
 
 ---
 
-### 📈 Current LeetCode Streak
- 
-<!-- Add LeetCode streak badge -->
-<div>
-<p align="center">
-<img src="https://leetcode-stats.vercel.app/api?username=_aadi_anant&theme=dark" alt="LeetCode Streak" />
-</p>
-</div>
-
----
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityak8340&theme=darkhub&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy" alt="Aditya's github trophy">
-</div>
-
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Adityak8340&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+  <!-- Stats Grid Container -->
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 1200px; margin: 20px auto;">
+    <!-- LeetCode Stats -->
+    <div style="background: rgba(30, 30, 30, 0.95); border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #FFB800; margin-bottom: 15px;">🏆 LeetCode Journey</h3>
+      <img src="https://leetcode-stats.vercel.app/api?username=_aadi_anant&theme=dark" alt="LeetCode Stats" style="width: 100%; height: auto;"/>
+    </div>
+    <!-- GitHub Language Stats -->
+    <div style="background: rgba(30, 30, 30, 0.95); border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #FFB800; margin-bottom: 15px;">💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak8340&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="width: 100%; height: auto;"/>
+    </div>
+  </div>
 
+  <!-- Contribution Stats -->
+  <div style="max-width: 1200px; margin: 20px auto;">
+    <div style="background: rgba(30, 30, 30, 0.95); border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #FFB800; margin-bottom: 15px;">🔥 Contribution Streak</h3>
+      <img width="100%" src="https://streak-stats.demolab.com?user=Adityak8340&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+    </div>
+  </div>
 
----
+  <!-- GitHub Stats -->
+  <div style="max-width: 1200px; margin: 20px auto;">
+    <div style="background: rgba(30, 30, 30, 0.95); border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #FFB800; margin-bottom: 15px;">📈 GitHub Statistics</h3>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adityak8340&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
+    </div>
+  </div>
 
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Adityak8340&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak8340&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityak8340&style=for-the-badge&color=orange" alt=""/>
+  <!-- Trophies -->
+  <div style="max-width: 1200px; margin: 20px auto;">
+    <div style="background: rgba(30, 30, 30, 0.95); border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #FFB800; margin-bottom: 15px;">🏆 GitHub Trophies</h3>
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Adityak8340&theme=darkhub&row=1&no-bg=true" alt="GitHub Trophies"/>
+    </div>
+  </div>
 </div>
 
 <p align="center">
