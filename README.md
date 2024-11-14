@@ -121,25 +121,15 @@
 
 ---
 
-### 📈 Current LeetCode Streak
- 
-<!-- Add LeetCode streak badge -->
-<div>
-<p align="center">
-<img src="https://leetcode-stats.vercel.app/api?username=_aadi_anant&theme=dark" alt="LeetCode Streak" />
-</p>
-</div>
-
----
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adityak8340&theme=darkhub&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy" alt="Aditya's github trophy">
 </div>
 
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Adityak8340&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; padding: 20px;">
+  <img style="width: 56%;" src="https://streak-stats.demolab.com?user=Adityak8340&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak Stats">
+  <img style="width: 43%;" src="https://stats.justsong.cn/api/leetcode/?username=_aadi_anant&theme=dark" alt="LeetCode Stats">
+</div>
 
 
 ---
