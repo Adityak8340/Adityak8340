@@ -41,21 +41,20 @@ Master's student in Artificial Intelligence and Machine Learning with a focus on
 - **Other**: LaTeX, Postman, PIL, Requests
 
 ---
-
 ## GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adityak8340&theme=nord&row=1&no-bg=true&no-frame=true" alt="GitHub Trophies">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 20px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; padding: 20px;">
   <img style="width: 56%;" src="https://streak-stats.demolab.com?user=Adityak8340&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak Stats">
-  <img style="width: 43%;" src="https://stats.justsong.cn/api/leetcode/?username=_aadi_anant&theme=dark" alt="LeetCode Stats">
+  <img style="width: 47%;" src="https://leetcard.jacoblin.cool/_aadi_anant?theme=dark&font=Kanit" alt="LeetCode Stats">
 </div>
 
 <p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=Adityak8340&show_icons=true&theme=vision-friendly-dark">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak8340&layout=compact&theme=vision-friendly-dark">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=Adityak8340&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityak8340&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </p>
 
 ---
